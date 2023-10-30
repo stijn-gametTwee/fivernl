@@ -1,0 +1,30 @@
+site_name: FiveR - Hulpdiensten Nederland
+site_url: 'https://fivernl.github.io/'
+site_description: 'APV & meer van FiveR'
+site_author: 'stijn_gamet'
+
+copyright: Copyright &copy; 2023 FiveR - Hulpdiensten Nederland
+
+repo_url: 'https://github.com/fivernl/fivernl.github.io/'
+repo_name: 'fivernl/fivernl.github.io'
+
+theme:
+  name: material
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to system preference
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+    - header.autohide
+    - toc.follow
