@@ -25,7 +25,7 @@ theme:
   language: nl
   features:
     - navigation.instant
-   # - navigation.tracking
+    - navigation.tracking
     - navigation.indexes
     - header.autohide
     - toc.follow
@@ -34,3 +34,11 @@ nav:
   - Home: index.md
   - Algemene Plaatselijke Verordening: apv.md
   - Wetboek: wetboek.md
+
+extra:
+  consent:
+    cookies:
+      analytics: FiveR - Hulpdiensten Nederland
+          actions:
+      - accept
+      - manage 
