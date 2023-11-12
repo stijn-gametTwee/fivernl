@@ -24,9 +24,9 @@ theme:
         name: Switch to system preference
   language: nl
   features:
-   # - navigation.instant
+    - navigation.instant
     - navigation.tracking
-    - navigation.indexes
+  #  - navigation.indexes
     - header.autohide
     - toc.follow
 
