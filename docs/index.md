@@ -1,7 +1,5 @@
 # Home
 
-![Image title](https://media.discordapp.net/attachments/1173057365113851904/1173057549403176991/Naamloos_17.png?ex=656291fa&is=65501cfa&hm=44a7ebb9580a5e76b3aa202cbc0a1adcb6a0a8581363e0375500da229cff280e&=&width=460&height=460){align=left}
-
 ## Officiële discord servers
 
 FiveR heeft verschillende discord servers die zijn goed gekeurd door het stadsbeheer zijn toegestaan:
