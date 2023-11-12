@@ -25,12 +25,10 @@ theme:
   language: nl
   features:
     - navigation.instant
-    - navigation.tracking
+#    - navigation.tracking
     - navigation.indexes
     - header.autohide
     - toc.follow
-    - content.action.edit
-    - content.action.view
 
 nav:
   - Home: index.md
