@@ -1,5 +1,12 @@
 # Home
 
+!!! tip "Wetboek wijzigingen"
+
+    Er zijn onlangs veranderingen gebeurd aan het wetboek van
+    FiveR, gelieve deze eens opnieuw door te niemen indien je
+    geen sancties zou willen in de game of discord. Klik [hier](https://fivernl.github.io/apv/)
+    als je er snel naar toe wilt gaan.
+
 ## Officiële discord servers
 
 FiveR heeft verschillende discord servers die zijn goed gekeurd door het stadsbeheer zijn toegestaan:

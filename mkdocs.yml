@@ -30,6 +30,16 @@ theme:
     - header.autohide
     - toc.follow
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+
 nav:
   - Home: index.md
   - Algemene Plaatselijke Verordening: apv.md
