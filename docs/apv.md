@@ -2,7 +2,7 @@
 
 !!! warning "Beta"
 
-    Deze website is nog in zijn beta fase. Dat betekend dat we volop bezig zijn met hem te maken.
+    Onze website is nog altijd in de maak. Dus je kan voorlopig nog niet alles verwachten. Kom later terug! :fontawesome-regular-face-laugh-wink:
 
 ## Straffen
 
