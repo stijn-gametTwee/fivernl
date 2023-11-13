@@ -29,6 +29,8 @@ theme:
     - navigation.indexes
     - header.autohide
     - toc.follow
+  favicon: img/fiver-icon.png
+  #logo: img/fiver-icon.png
 
 markdown_extensions:
   - admonition

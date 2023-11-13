@@ -1,11 +1,8 @@
 # Home
 
-!!! tip "Wetboek wijzigingen"
+!!! warning "Beta"
 
-    Er zijn onlangs veranderingen gebeurd aan het wetboek van
-    FiveR, gelieve deze eens opnieuw door te niemen indien je
-    geen sancties zou willen in de game of discord. Klik [hier](https://fivernl.github.io/apv/)
-    als je er snel naar toe wilt gaan.
+    Deze website is nog in zijn beta fase. Dat betekend dat we volop bezig zijn met hem te maken.
 
 ## Officiële discord servers
 
