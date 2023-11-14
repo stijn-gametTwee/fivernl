@@ -19,7 +19,7 @@ FiveR heeft verschillende discord servers die zijn goed gekeurd door het stadsbe
 
 ## Officiële roblox Links
 
-FiveR heeft verschillende roblox groepen en links.
+FiveR heeft verschillende Roblox groepen en links.
 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
