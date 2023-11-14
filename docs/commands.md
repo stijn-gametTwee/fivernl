@@ -16,6 +16,7 @@ De prefix voor alle commands in FiveR is `/`, je kan dus de onderstaande command
 | doorzoek | search | Je kan met deze command mensen doorzoeken, ze zullen wel eerst moeten accepteren. | `/doorzoek <speler>` |
 | togglechat | N.V.T. | Je kan met deze command de chat linksboven aan/uit zetten. | `/togglechat` |
 | callsign | N.V.T. | Je kan met deze command de callsign aanpassen/resetten. | `/callsign <roepnummer>` |
+| report | help | Je kan met deze command kan je een report maken bij een stafflid. | `/report <report>` |
 
 ### Staff
 
