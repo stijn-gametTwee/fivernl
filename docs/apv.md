@@ -145,7 +145,7 @@
 
 ### Artikel 24 - Gebruik van boeien
 
-1. Als overheids functie is het niet toegstaan om je boeien te gebruiken zonder enige geldige reden, doe je dit wel valt het onder `Artikel 31 - Tool Abuse`.
+1. Als overheids functie is het niet toegstaan om je boeien te gebruiken zonder enige geldige reden, doe je dit wel valt het onder `Artikel 30 - Tool Abuse`.
 
 ### Artikel 25 - Microfoon & Stemvervormers
 
