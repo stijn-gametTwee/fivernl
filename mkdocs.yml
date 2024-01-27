@@ -3,7 +3,7 @@ site_url: 'https://fivernl.github.io/fivernl.github.io/'
 site_description: 'Hier vind je van alles over FiveR. Zoals het APV, Wetboek, Commands & veel meer..'
 site_author: 'stijn_gamet'
 
-copyright: Copyright &copy; 2023 FiveR - Hulpdiensten Nederland
+copyright: Copyright &copy; 2023 FiveR - Hulpdiensten Nederland | stijn_gamet
 
 theme:
   name: material
