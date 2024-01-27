@@ -26,8 +26,6 @@ theme:
     - navigation.indexes
     - header.autohide
     - toc.follow
-    - content.action.edit
-    - content.action.view
   favicon: img/fiver-icon.png
   #logo: img/fiver-icon.png
 
@@ -48,6 +46,8 @@ markdown_extensions:
 plugins:
   - search:
       lang: nl
+  - git-revision-date-localized:
+      type: date
 
 nav:
   - Home: index.md
