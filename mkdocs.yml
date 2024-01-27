@@ -47,7 +47,10 @@ plugins:
   - search:
       lang: nl
   - git-revision-date-localized:
-      type: date
+      type: timeago
+      time_zone: Europe/Amsterdam
+      locale: nl
+      fallback_to_build_date: false
 
 nav:
   - Home: index.md
